@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:shop_app/constants.dart';
-import 'package:shop_app/screens/home/home_screen.dart';
 import 'package:shop_app/navigation_homescreen.dart';
 
 void main() {
